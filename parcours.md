@@ -13,32 +13,31 @@ download_cv: assets/docs/Template_CV.pdf
 
 Elève ingénieur en Energie et Numérique
 * Cours : mathématiques, physique, éléctronique, programmation, conception et prototypage, système informatique, projet applicatif
-* 
+  
 
 `2024`
+**Saint-Therese d'Avila Avesnes**
 Bac général, spécialités : physique-chimie, SVT et math complémentaire, mention très bien, Saint Thérèse Avesnes-sur-helpe
 
-## Expériences
+## Expériences professionnelles
 
-`20XX` **Projet d’étude – préciser le thème du projet**
-
-_Réalisé en équipe de XX étudiants_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+`2023-2025` **Placiée / hotesse -Théâtre Jean-Ferrat à Fourmies**
 
 
-`20XX` **Entreprise, secteur activité, description site rejoint, taille, ville**
+`2022-2 semaines` **Stage en kinésithérapeute à Fourmies**
 
-_Stage – intitulé du poste_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
 
-`20XX` **Association, description de l’asso., taille**
+## Expériences associatives
 
-_Intitulé du poste dans une équipe de XX membres_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+`2024-2025` **Unimaker**
+
+
+`2024-2025` **Unisique - groupe de musique**
+
+
+`2022-2024` **Orchestre**
+
+
 
 ## Compétences
 
@@ -50,19 +49,16 @@ Informatique
 * kicad
 * Oneshape
 
-Autres
-* Autres diplômes ou permis spéciaux
 
 ## Centres d’intérêt
 
 Musique
-* Description
-* Description 
+*cours de piano
+*orchestre de trélon
+*groupe de musique ( association )
 
 Voyager
-* Description 
-* Description
 
 Sport 
-*
-*
+* Volley (association)
+  
