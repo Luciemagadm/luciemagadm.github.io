@@ -53,9 +53,9 @@ Informatique
 ## Centres d’intérêt
 
 Musique
-*cours de piano
-*orchestre de trélon
-*groupe de musique ( association )
+* cours de piano
+* orchestre de trélon
+* groupe de musique ( association )
 
 Voyager
 
